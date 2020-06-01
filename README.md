@@ -6,4 +6,4 @@ In Watson Discovery I have added ecobee3_UserGuidepurposeful as the owner's manu
 
 Node-Red Dashboard link after deploying : https://zerod.eu-gb.mybluemix.net/ui/#!/0?socketid=Rrmftsx6o1MPiMn7AAAi
 
-Youtube video link is : 
+Youtube video link is : https://youtu.be/DXPWyoMdL6A
